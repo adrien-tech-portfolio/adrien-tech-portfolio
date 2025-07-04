@@ -46,7 +46,7 @@
 
 ### 🎵 [Plateforme Musicale Collaborative](https://github.com/adrien/music-platform)
 *Projet Uganda - Featuring international*
-- Collaboration artistique avec Jet 256
+- Collaboration artistique avec jollyjade256
 - Production vidéo complète
 - Diffusion multi-plateformes
 
